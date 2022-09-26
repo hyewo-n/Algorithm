@@ -1,9 +1,10 @@
+package silver;
 
-public class hello {
+public class _2751_수_정렬하기2 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("hello");
+
 	}
 
 }
