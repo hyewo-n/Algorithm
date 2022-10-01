@@ -20,10 +20,7 @@ public class _재도전_2869_달팽이는_올라가고_싶다 {
 			if(check >= v)
 				break;
 			check -= b;
-		}
-		
+		}		
 		System.out.println(day);
-		
 	}
-
 }

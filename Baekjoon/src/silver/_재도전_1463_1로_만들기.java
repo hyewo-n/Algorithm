@@ -27,7 +27,5 @@ public class _재도전_1463_1로_만들기 {
 			}		
 		}
 		System.out.println(count);
-
 	}
-
 }
