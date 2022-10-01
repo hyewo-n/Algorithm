@@ -1,7 +1,7 @@
 package bronze;
 import java.util.*;
 
-public class _2609_최대공약수와_최소공배수 {
+public class _재도전_2609_최대공약수와_최소공배수 {
 
 	public static void main(String[] args) {
 		
@@ -18,7 +18,7 @@ public class _2609_최대공약수와_최소공배수 {
 		
 		int num1=0;
 		
-		for(int i=0; i<big; i++) {
+		for(int i=1; i<big; i++) {
 			if(a%i==0 && b%i==0)
 				num1 = i;
 		}
