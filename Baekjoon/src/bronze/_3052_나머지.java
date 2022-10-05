@@ -8,21 +8,19 @@ public class _3052_³ª¸ÓÁö {
 		Scanner sc = new Scanner(System.in);
 		int arr[] = new int[10];
 		int na[] = new int[10];
+		
 		for(int i=0; i<10; i++) {
 			arr[i] = sc.nextInt();
 			na[i] = arr[i]%42;
 		}
-		int answer=10;
-		for(int i=0; i<9; i++) {
-			for(int j=i+1; j<10; j++) {
-				if(na[i] == na[j]) {
-					answer = answer-1;
-				}
-			}
-			
-		}
-		System.out.println(answer);
 		
+		ArrayList<Integer> nana = new ArrayList<Integer>();
+		for(int i=0; i<10; i++) {
+			if(!nana.contains(na[i]))
+				nana.add(na[i]);
+		}
+		int ans = nana.size();
+		System.out.println(ans);
 
 	}
 
