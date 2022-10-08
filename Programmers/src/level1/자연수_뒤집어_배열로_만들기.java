@@ -5,18 +5,6 @@ public class 자연수_뒤집어_배열로_만들기 {
 
 	public static int[] solution(long n) {
         		
-		String str = String.valueOf(n);
-		int answer[] = new int[str.length()];
-		
-		for(int i=0; i<answer.length; i++) {
-			answer[i] = (int)n%10;
-			n = n/10;
-		}
-		
-		
-		return answer;
-		
-		/*
         String str = String.valueOf(n);
         int answer[] = new int[str.length()];
         for(int i=str.length()-1; i>=0; i--) {
@@ -25,7 +13,7 @@ public class 자연수_뒤집어_배열로_만들기 {
         }
         
         return answer;
-        */
+
     }
 	
 	public static void main(String[] args) {
