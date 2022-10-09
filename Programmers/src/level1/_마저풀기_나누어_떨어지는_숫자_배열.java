@@ -1,7 +1,7 @@
 package level1;
 import java.util.*;
 
-public class 나누어_떨어지는_숫자_배열 {
+public class _마저풀기_나누어_떨어지는_숫자_배열 {
 
 	public static int[] solution(int[] arr, int divisor) {
 		
