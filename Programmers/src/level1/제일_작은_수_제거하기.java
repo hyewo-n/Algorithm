@@ -35,5 +35,4 @@ public class 제일_작은_수_제거하기 {
 		System.out.println(solution(arr));
 
 	}
-
 }
