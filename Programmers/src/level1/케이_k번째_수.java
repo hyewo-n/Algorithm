@@ -26,8 +26,5 @@ public class 케이_k번째_수 {
 		for(int x : solution(arr,com))
 			System.out.println(x + " ");
 		//System.out.println(solution(arr, com));
-		
-
 	}
-
 }
