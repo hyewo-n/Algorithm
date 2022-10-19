@@ -19,5 +19,4 @@ public class 약수의_합 {
 		System.out.println(solution(n));
 
 	}
-
 }
