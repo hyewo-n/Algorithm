@@ -23,5 +23,4 @@ public class 없는_숫자_더하기 {
 		System.out.println(solution(arr));
 		
 	}
-
 }
