@@ -21,5 +21,4 @@ public class 수박수박수박수 {
 		System.out.println(solution(n));
 
 	}
-
 }

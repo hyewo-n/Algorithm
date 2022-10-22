@@ -1,5 +1,4 @@
 package level1;
-import java.util.*;
 
 public class _마저풀기_나누어_떨어지는_숫자_배열 {
 
