@@ -1,7 +1,5 @@
 package level1;
 
-import java.util.*;
-
 public class 서울에서_김서방_찾기 {
 
 	public static String solution(String[] seoul) {
@@ -18,8 +16,6 @@ public class 서울에서_김서방_찾기 {
 	}
 
 	public static void main(String[] args) {
-
-		Scanner sc = new Scanner(System.in);
 
 		String arr[] = { "Jane", "Kim" };
 		System.out.println(solution(arr));
