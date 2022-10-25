@@ -1,5 +1,4 @@
 package level1;
-import java.util.*;
 
 public class 자연수_뒤집어_배열로_만들기 {
 
@@ -17,9 +16,7 @@ public class 자연수_뒤집어_배열로_만들기 {
     }
 	
 	public static void main(String[] args) {
-
-		Scanner sc = new Scanner(System.in);
-		
+	
 		long n = 12345;
 		System.out.println(solution(n));
 
