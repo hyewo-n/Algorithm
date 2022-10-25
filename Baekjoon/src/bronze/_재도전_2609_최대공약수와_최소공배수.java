@@ -29,5 +29,4 @@ public class _재도전_2609_최대공약수와_최소공배수 {
 		System.out.println(num2);
 		
 	}
-
 }
