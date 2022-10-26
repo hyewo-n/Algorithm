@@ -19,7 +19,9 @@ public class _3052_³ª¸ÓÁö {
 			if(!nana.contains(na[i]))
 				nana.add(na[i]);
 		}
+		
 		int ans = nana.size();
+		
 		System.out.println(ans);
 
 	}
