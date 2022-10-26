@@ -1,5 +1,4 @@
 package bronze;
-
 import java.util.*;
 
 public class _1110_더하기_사이클 {
@@ -30,8 +29,7 @@ public class _1110_더하기_사이클 {
 					System.out.println(check);
 					break;
 				}
-			}
-			
+			}	
 		}
 	}
 }

@@ -19,7 +19,9 @@ public class _2675_문자열_반복 {
 					answer += s.charAt(j);
 				}
 			}
+			
 			System.out.println(answer);
+			
 		}
 
 	}
