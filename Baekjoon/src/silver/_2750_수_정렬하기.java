@@ -15,8 +15,10 @@ public class _2750_수_정렬하기 {
 		}
 		
 		Arrays.sort(arr);
+		
 		for(int x : arr) {
 			System.out.println(x);
 		}
+		
 	}
 }

@@ -21,7 +21,9 @@ public class _8958_OXÄûÁî {
 					answer=0;
 				}
 			}
+			
 			System.out.println(sum);
+			
 		}
 		
 	}
