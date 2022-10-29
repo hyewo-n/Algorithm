@@ -25,6 +25,7 @@ public class _1546_ЦђБе {
 		}
 		
 		float avg = sum /n;
+		
 		System.out.println(avg);
 		
 	}

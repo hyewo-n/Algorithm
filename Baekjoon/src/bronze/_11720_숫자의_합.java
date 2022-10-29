@@ -16,9 +16,7 @@ public class _11720_숫자의_합 {
 			a = str.charAt(i)-'0';
 			sum+=a;
 		}
-		
 		System.out.println(sum);
-
 	}
 
 }
