@@ -16,5 +16,6 @@ public class _10818_최소최대 {
 		Arrays.sort(arr);
 		
 		System.out.println(arr[0] + " " + arr[n-1]);
+		
 	}
 }
