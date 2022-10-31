@@ -11,9 +11,13 @@ public class 직사각형_별찍기 {
 
         for(int i=0; i<b; i++) {
         	for(int j=0; j<a; j++) {
+        		
         		System.out.print('*');
+        		
         	}
+        	
         	System.out.println();
+        	
         }
 
 	}
